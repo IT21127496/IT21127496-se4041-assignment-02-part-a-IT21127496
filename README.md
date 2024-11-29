@@ -1,7 +1,4 @@
-<!-- Please go under edit and edit this file as needed for your project.  There is no separate documentation needed. -->
-<p align="center">
-<img src="Resources/Voluntr_logo.png" width="150"> 
-</p>
+![Login Screen](Resources/Voluntr_logo.png)
 
 
 # Project Name - Voluntr
