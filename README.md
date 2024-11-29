@@ -46,7 +46,7 @@ Individuals who are interested in volunteering and organizations that are lookin
 ### 6. **Profile Screen**  
    Users can view and edit their profile details, including their contact information and volunteer preferences.
 
-   ![Profile Screen](Resources/Profile.PNG)
+   ![Profile Screen](Resources/Profile.jpeg)
 
 ### 7. **My Events Screen**  
    Shows a list of events that the user has registered for, including their participation status.
