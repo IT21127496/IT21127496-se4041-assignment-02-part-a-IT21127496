@@ -24,47 +24,47 @@ Individuals who are interested in volunteering and organizations that are lookin
 ### 1. **Login Screen**  
    This is where users sign in to their account or create a new one. It uses Firebase Authentication to manage users securely.
 
-   ![Login Screen](./Resources/LogIn.png)
+   ![Login Screen](Resources/SignIn.PNG)
 
 ### 2. **Registration Screen**  
    Users can create a new account by entering their details like name, email, and password.
 
-   ![Registration Screen](./Resources/SignUp.png)
+   ![Registration Screen](Resources/SignUp.PNG)
 
 ### 3. **Home Screen (Map Discovery)**  
    The home screen features a map view where users can discover volunteer events near them based on their location.
 
-   ![Home Screen](./Resources/Map.png)
+   ![Home Screen](Resources/Map.PNG)
 
 ### 4. **Event Search Screen**  
    Users can search for volunteer events by name, category, or date. This screen also allows filtering by location or event type.
 
-   ![Event Search Screen](./Resources/SearchEvents.png)
+   ![Event Search Screen](Resources/SearchEvents.PNG)
 
 ### 5. **Event Details Screen**  
    Displays detailed information about a specific event, including location, time, requirements, and a registration option.
 
-   ![Event Details Screen](./Resources/AddNewEvent.png)
+   ![Event Details Screen](Resources/AddNewEvent.PNG)
 
 ### 6. **Profile Screen**  
    Users can view and edit their profile details, including their contact information and volunteer preferences.
 
-   ![Profile Screen](./Resources/Profile.png)
+   ![Profile Screen](Resources/Profile.PNG)
 
 ### 7. **My Events Screen**  
    Shows a list of events that the user has registered for, including their participation status.
 
-   ![My Events Screen](./Resources/MyEvents.png)
+   ![My Events Screen](Resources/MyEvents.PNG)
 
 ### 8. **Create Event Screen**  
    Organizations or users can create a new volunteer event, providing details like event name, description, time, and location.
 
-   ![Create Event Screen](./Resources/AddNewEvent.png)
+   ![Create Event Screen](Resources/AddNewEvent.PNG)
 
 ### 9. **Joined Events Screen**  
    Users can see a list of events they’ve joined, including any relevant updates or reminders.
 
-   ![Joined Events Screen](./Resources/JoinedEvents.png)
+   ![Joined Events Screen](Resources/JoinedEvents.PNG)
 
 
 
